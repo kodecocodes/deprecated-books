@@ -8,6 +8,8 @@ Links to book zip files:
 
 |  Book                                         | Edition | Release Date | Size |
 |---------------------------------------------- |:-------:|:------------:| ---- |
+| [2D Apple Games by Tutorials](https://cdn.raywenderlich.com/deprecated-books/igt1/2D_Apple_Games_by_Tutorials_3.0.zip) | 3.0     | 2017-09-25   | 628.1 MB |
+| [3D Apple Games by Tutorials](https://cdn.raywenderlich.com/deprecated-books/igt2/3D_Apple_Games_by_Tutorials_3.0.1.zip) | 3.0    | 2017-09-27   | 572.2 MB |
 | [ARKit by Tutorials](https://cdn.raywenderlich.com/deprecated-books/ark/ARKit_by_Tutorials_v3.0.0.zip) | 3.0     | 2019-10-02   | 2.1 GB |
 | [Beat 'Em Up Game Starter Kit](https://cdn.raywenderlich.com/deprecated-books/bgsk/Beat_Em_Up_Game_Starter_Kit_v2_1.zip) | 2.1     | 2014-11-04   | 118.6 MB |
 | [Beat ’Em Up Game Starter Kit - Unity](https://cdn.raywenderlich.com/deprecated-books/bgsku/Beat_Em_Up_Game_Starter_Kit_Unity_v1.0.zip) | 1.0     | 2018-05-29   | 150.3 MB |
@@ -29,3 +31,22 @@ Links to book zip files:
 | [Unity AR & VR by Tutorials](https://cdn.raywenderlich.com/deprecated-books/uvr/Unity_AR_&_VR_by_Tutorials_v1.2.zip) | 1.2     | 2019-03-25   | 2.3 GB |
 | [Unity Games by Tutorials](https://cdn.raywenderlich.com/deprecated-books/ua/Unity_Games_by_Tutorials_v3.1.0.zip) | 3.1     | 2019-08-27   | 441 MB |
 | [WatchKit by Tutorials](https://cdn.raywenderlich.com/deprecated-books/awt/WatchKit_by_Tutorials_v1.4.zip) | 1.4     | 2015-05-13   | 69.3 MB |
+
+
+## LICENSE
+
+Contents of this repository are copyright Razeware LLC. All rights reserved.
+
+In particular, here's what you can and can't do with the contents of this repository:
+* You are allowed to use and/or modify the source code provided in this repository in as many apps as you want, with no attribution required.
+* You are allowed to use and/or modify all art, images and designs that form part of the source code in this repository in as many apps as you want, 
+but must include this attribution line somewhere inside your app: "Artwork/images/designs: from www.raywenderlich.com".
+* The source code and books included in this repository are for your personal or educational use only. 
+You are NOT allowed to sell the source code OR the book content in this repository without prior authorization.
+
+All materials provided in this repository are provided on an "as is" basis, without warranty of any kind, 
+express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. 
+In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, 
+tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+
+All trademarks and registered trademarks appearing in this guide are the properties of their respective owners.
