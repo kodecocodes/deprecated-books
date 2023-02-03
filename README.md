@@ -1,6 +1,6 @@
-# raywenderlich.com Deprecated Books
+# Kodeco Deprecated Books
 
-This repo is for [raywenderlich.com](https://www.raywenderlich.com/) books that are no longer supported. 
+This repo is for [Kodeco](https://www.kodeco.com/) books that are no longer supported. 
 
 Links to book zip files:
 
@@ -35,7 +35,7 @@ Links to book zip files:
 
 ## LICENSE
 
-Contents of this repository are copyright Razeware LLC. All rights reserved.
+Contents of this repository are copyright Kodeco Inc. All rights reserved.
 
 In particular, here's what you can and can't do with the contents of this repository:
 * You are allowed to use and/or modify the source code provided in this repository in as many apps as you want, with no attribution required.
