@@ -40,7 +40,7 @@ Contents of this repository are copyright Kodeco Inc. All rights reserved.
 In particular, here's what you can and can't do with the contents of this repository:
 * You are allowed to use and/or modify the source code provided in this repository in as many apps as you want, with no attribution required.
 * You are allowed to use and/or modify all art, images and designs that form part of the source code in this repository in as many apps as you want, 
-but must include this attribution line somewhere inside your app: "Artwork/images/designs: from www.raywenderlich.com".
+but must include this attribution line somewhere inside your app: "Artwork/images/designs: from www.kodeco.com".
 * The source code and books included in this repository are for your personal or educational use only. 
 You are NOT allowed to sell the source code OR the book content in this repository without prior authorization.
 
